@@ -1,1 +1,7 @@
-![image](https://user-images.githubusercontent.com/111964501/186370639-0e6e80a1-df32-47e6-9de6-0296c0c8921b.png)
+#BG Code
+
+#Stock spread dashboard
+
+View the history of Nasdaq tickers and the spread between them
+
+![image](https://user-images.githubusercontent.com/111964501/186370722-17118cdc-fe4b-4cdb-9fa4-464ffbd76066.png)
