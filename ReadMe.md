@@ -1,6 +1,6 @@
 <h1> BG Code </h1>
 
-Stock spread dashboard
+<h3> Stock spread dashboard </h3>
 
 View the history of Nasdaq tickers and the spread between them
 
