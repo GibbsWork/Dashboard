@@ -18,21 +18,18 @@ from datetime import timedelta
 st.set_page_config(layout="wide")
 
 
-apikey="6004f900eaab46259d06a95edc95c314"
-fmpAPI='aa005c9f1003c4b4d396cc1e7037272f'
-ALPACA_API_KEY="PKK5HPGTGON1DKZS5LBI"
-ALPACA_SECRET_KEY="fjgw336IHl1I6kwj7DDm0EYTCvijlGljKQvrE7zD"
 
 
-# apikey=st.secrets["APIKEY"]
+
+apikey=st.secrets["APIKEY"]
 td = TDClient(apikey=apikey)
-# fmpAPI = st.secrets["FMPAPI"]
+fmpAPI = st.secrets["FMPAPI"]
 
 from alpaca_trade_api.rest import REST, TimeFrame
 
 base = 'https://data.alpaca.markets/v2'
-# ALPACA_API_KEY = st.secrets["ALPACA_API_KEY"]
-# ALPACA_SECRET_KEY = st.secrets["ALPACA_SECRET_KEY"]
+ALPACA_API_KEY = st.secrets["ALPACA_API_KEY"]
+ALPACA_SECRET_KEY = st.secrets["ALPACA_SECRET_KEY"]
 BASE_URL = 'https://data.alpaca.markets/v2'
 BASE_URLClock = 'https://paper-api.alpaca.markets'
 
