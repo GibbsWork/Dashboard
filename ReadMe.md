@@ -1,6 +1,6 @@
-<h1> BG Code </h1>
+<h1> BG Finance Dashboard </h1>
 
-<h3> BG Finance Dashboard </h3>
+
 <h4> *In development* </h4>
 <h4> https://gibbswork-dashboard-dashboard-y78wz9.streamlitapp.com/ </h4>
 <h4>Compare up to three assets </h4>
