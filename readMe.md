@@ -1,6 +1,6 @@
 #BG Code
 
-#Stock spread dashboard
+Stock spread dashboard
 
 View the history of Nasdaq tickers and the spread between them
 
